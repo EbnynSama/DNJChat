@@ -4,22 +4,22 @@
 2.	Hinterher setzen Sie bitte ihre Datenbankeinstellungen in der Datei "config.php".
 
 3.	Bisher wurde noch kein Chataccount angelegt.
-	Rufen Sie den Chat über ihren Browser auf und legen Sie einen neuen Account an.
+	Rufen Sie den Chat Ã¼ber ihren Browser auf und legen Sie einen neuen Account an.
 	Diesem (ersten!) Account wird automatisch die Rolle "admin" zugewiesen.
 	
 	
-	Für weitere Hinweise lesen Sie sich bitte die ToDo - Liste oder unser Wiki unter http://wiki.chat.deathnet.de/ durch.
+	FÃ¼r weitere Hinweise lesen Sie sich bitte die ToDo - Liste oder unser Wiki unter http://wiki.chat.deathnet.de/ durch.
 
 	
-/// ToDo - Liste (bezüglich der nächsten Version) ///
-1.	Es müssen noch anständige Variablenbezeichnungen hinzugefügt werden,
+/// ToDo - Liste (bezÃ¼glich der nÃ¤chsten Version) ///
+1.	Es mï¿½ssen noch anstï¿½ndige Variablenbezeichnungen hinzugefï¿½gt werden,
 	bisher klingen viele noch sehr unprofessionell.
 
-2.	[Erledigt] Rechtespezifische Befehle wie /kick müssen noch einmal überarbeitet werden.
+2.	[Erledigt] Rechtespezifische Befehle wie /kick mï¿½ssen noch einmal ï¿½berarbeitet werden.
 
-3.	Es muss eine Wishper/Flüster Funktion definiert werden (/w Username Nachricht).
+3.	Es muss eine Wishper/Flï¿½ster Funktion definiert werden (/w Username Nachricht).
 	(Diese gibt es bisher noch nicht!)
 	
-4.	Befehle müssen noch hinzugefügt werden, um Benutzern verschiedene Ränge/Rollen zuzuweisen (admin, mod, vip, usw...).
+4.	Befehle mï¿½ssen noch hinzugefï¿½gt werden, um Benutzern verschiedene Rï¿½nge/Rollen zuzuweisen (admin, mod, vip, usw...).
 
-5.	[Erledigt] BBCodes müssen überarbeitet werden.
+5.	[Erledigt] BBCodes mï¿½ssen ï¿½berarbeitet werden.
