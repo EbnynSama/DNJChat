@@ -12,14 +12,14 @@
 
 	
 /// ToDo - Liste (bezüglich der nächsten Version) ///
-1.	Es m�ssen noch anst�ndige Variablenbezeichnungen hinzugef�gt werden,
+1.	Es müssen noch anständige Variablenbezeichnungen hinzugefügt werden,
 	bisher klingen viele noch sehr unprofessionell.
 
-2.	[Erledigt] Rechtespezifische Befehle wie /kick m�ssen noch einmal �berarbeitet werden.
+2.	[Erledigt] Rechtespezifische Befehle wie /kick müssen noch einmal überarbeitet werden.
 
-3.	Es muss eine Wishper/Fl�ster Funktion definiert werden (/w Username Nachricht).
+3.	Es muss eine Wishper/Flüster Funktion definiert werden (/w Username Nachricht).
 	(Diese gibt es bisher noch nicht!)
 	
-4.	Befehle m�ssen noch hinzugef�gt werden, um Benutzern verschiedene R�nge/Rollen zuzuweisen (admin, mod, vip, usw...).
+4.	Befehle müssen noch hinzugefügt werden, um Benutzern verschiedene Ränge/Rollen zuzuweisen (admin, mod, vip, usw...).
 
-5.	[Erledigt] BBCodes m�ssen �berarbeitet werden.
+5.	[Erledigt] BBCodes müssen überarbeitet werden.
